@@ -26,28 +26,4 @@ python --version
 
 #### Python-Package-Checker-and-Installer
 
-Go to https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, you can take this code and add it to any program you wish to share with others but don't want to worry about telling them which packages need to be downloaded. This tool simnply takes all the hassle out sharing Python scripts. 
-
-![main-prompt](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/main-prompt.png)
-From here, input the URL/ip you wish to defang. If you would like to include another URL/ip, simply click enter once then type the next one. When finished, click enter twice to run the program.
-
-```sh
-<ip> [Enter]
-```
-(Additional as needed:
-```sh
-<ip> [Enter]
-```
-)
-```sh
-[Enter]
-```
-
-![defanged-example](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/Test%20case%203.png)
-
-The new, defanged url is now copied to your clipboard and ready for you to analyze. 
-
----
-
-Here is an example of Malicious IP addresses and Links being found on GreyNoise
-![defanged-example1](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/2d7abcfef6aa0e96a9cf855afc16fb3745cb160c/images/Test%20case%201.png)
+Go to https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, you can take this code and add it to any program you wish to share with others but don't want to worry about telling them which packages need to be downloaded. This tool simply takes all the hassle out sharing Python scripts. 
