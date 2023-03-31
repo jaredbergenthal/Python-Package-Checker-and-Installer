@@ -13,7 +13,7 @@ Once the executable is downloaded, run the installer selecting the express “In
 
 ![install-python](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/install-python.png)
 
-After the setup is complete, ensure that python is correctly installed. You can do this from the command prompt by typing python --version
+After the setup is complete, ensure that python is correctly installed. You can do this from the command prompt by openin the command prompt and typing python --version
 
 
 ![run-cmd](https://github.com/jaredbergenthal/Simple-Defang-Tool/blob/main/images/run-cmd.png)
