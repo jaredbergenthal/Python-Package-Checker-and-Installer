@@ -34,5 +34,7 @@ Below is a screenshot of some code that I wanted to share with a friend. As can 
 ![error message](https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer/blob/main/images/Error%20Message.jpg)
 
 In order to get the code to work I added the Python-Package-Checker-and-Installer code to the beginning of the script. In order to make the program check all of the packages needed one simply needs to add the names of the packages to the pythonPackageList as higlighted in the screenshot below. 
-
+![editing the script](https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer/blob/main/images/highlighted%20list.jpg)
 Once all the packages are added to the list the program can be executed and as shown below it correctly installed the Pyperclip module and the code was successfully run. 
+![editing the script](https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer/blob/main/images/packages%20Installed.jpg)
+Now the code can be successfully shared with anyone and you don't have to worry about telling them which packages to download! 
