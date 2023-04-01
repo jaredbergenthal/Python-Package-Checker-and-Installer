@@ -26,10 +26,12 @@ python --version
 
 #### Python-Package-Checker-and-Installer
 
-Go to https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, you can take this code and add it to any program you wish to share with others but don't want to worry about telling them which packages need to be downloaded. This tool simply takes all the hassle out ofsharing Python scripts. 
+Go to https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer, and from here select the green “Code” button, select download zip, download, and extract the tool. After the file is extracted, you can take this code and add it to any program you wish to share with others but don't want to worry about telling them which packages need to be downloaded. This tool simply takes all the hassle out of sharing Python scripts. 
+
 
 Below is a screenshot of some code that I wanted to share with a friend. As can be seen the Python Package PyperClip hasn't been installed and once the code was run an error message showing that the Module requests wasn't found was displayed.
 
+![error message](https://github.com/jaredbergenthal/Python-Package-Checker-and-Installer/blob/main/images/Error%20Message.jpg)
 
 In order to get the code to work I added the Python-Package-Checker-and-Installer code to the beginning of the script. In order to make the program check all of the packages needed one simply needs to add the names of the packages to the pythonPackageList as higlighted in the screenshot below. 
 
